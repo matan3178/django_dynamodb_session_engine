@@ -1,4 +1,4 @@
-# django_dynamodb_session_engine
+# Django DynamoDB Sessions Engine 
 
 After a deep search of a way to get rid of relational database for a modern Django app's sessions, I decided to
 implement it by myself
